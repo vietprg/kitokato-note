@@ -25,7 +25,7 @@ fields:
 - name: showfullcontent
   type: boolean
   label: showFullContent
-  description: Show full content
+  description: Hide Preview
 pages:
 - content/post/hello.md
 - content/post/test.md
