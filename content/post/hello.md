@@ -1,6 +1,6 @@
 +++
 author = "viet.md"
-cover = "img/hello.jpg"
+cover = "/uploads/Photo-by-Shelby-Miller-on-Unsplash.png"
 date = 2019-04-09T23:00:00Z
 description = "Blog này được làm bằng Hugo, sử dụng theme Terminal và host tại Netlify. Với mình đây là sự kết hợp khá ổn và phù hợp với blog cá nhân."
 showfullcontent = false
@@ -32,3 +32,5 @@ Hiện tại về cơ bản cũng chưa có nhiều plan cụ thể với cái m
 * #random thoughts: chia sẻ lung tung.
 * #tech: những bài viết với góc nhìn về công nghệ
 * #tips: một số hack tâm đắc, không chỉ là về tech.
+
+_Credit where credit is due: Photo-by-Shelby-Miller-on-Unsplash_
