@@ -10,9 +10,9 @@ title = "Hello Friend"
 +++
 Đây là bài post đầu tiên ở mini blog này. Cũng lâu lắm rồi mình mới đụng lại code.
 
-_Blog này được làm bằng_ [_Hugo_](https://gohugo.io "Gohugo")_, sử dụng theme_ [_Terminal_](https://github.com/panr/hugo-theme-terminal "Terminal") _và host tại_ [_Netlify_](Https://netlify.com "Netlify")_. Với mình đây là sự kết hợp khá ổn và phù hợp với blog cá nhân._ 
+_Blog này được làm bằng_ [_Hugo_](https://gohugo.io "Gohugo")_, sử dụng theme_ [_Terminal_](https://github.com/panr/hugo-theme-terminal "Terminal") _và host tại_ [_Netlify_](Https://netlify.com "Netlify")_. Với mình đây là sự kết hợp khá ổn và phù hợp với blog cá nhân._
 
-Vài điểm nhận xét nhanh
+Vài điểm nhận xét nhanh:
 
 **Pros:**
 
