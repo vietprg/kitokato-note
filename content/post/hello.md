@@ -1,10 +1,10 @@
 +++
 author = "Lorem Ipsum"
 cover = "img/hello.jpg"
-date = 2019-01-25T00:00:00Z
+date = 2019-04-09T23:00:00Z
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
 showfullcontent = false
-tags = []
+tags = ["random thoughts"]
 title = "Hello Friend"
 
 +++
