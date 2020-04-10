@@ -2,7 +2,7 @@
 author = "viet.md"
 cover = "img/hello.jpg"
 date = 2019-04-09T23:00:00Z
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+description = "Blog này được làm bằng Hugo, sử dụng theme Terminal và host tại Netlify. Với mình đây là sự kết hợp khá ổn và phù hợp với blog cá nhân."
 showfullcontent = false
 tags = ["random thoughts"]
 title = "Everything must have a beginning"
