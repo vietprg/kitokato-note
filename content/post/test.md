@@ -3,7 +3,7 @@ author = "viet.md"
 cover = ""
 date = 2020-04-09T22:00:00Z
 description = ""
-showfullcontent = true
+showfullcontent = false
 tags = ["showfull"]
 title = "Test"
 
