@@ -35,6 +35,6 @@ Hiện tại về cơ bản cũng chưa có nhiều plan cụ thể với cái m
 
 Ngoài việc comment thì các bạn có thể email cho mình tại hi@viet.md. Rất vui khi có những người bạn với chung đam mê và hoàn toàn có thể khác nhau về suy nghĩ.
 
-_Credit where credit is due:_
+Credit where credit is due:
 
 _Photo by_ [_Shelby Miller_](https://unsplash.com/@shebster_07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/typewriter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
