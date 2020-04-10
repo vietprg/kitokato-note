@@ -24,7 +24,7 @@ fields:
   label: description
 - name: showfullcontent
   type: boolean
-  label: Hide Preview
+  label: hide preview
   description: Set to hide post preview from frontpage
 pages:
 - content/post/hello.md
