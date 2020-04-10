@@ -27,4 +27,5 @@ fields:
   label: showFullContent
   description: Show full content
 pages:
+- content/post/hello.md
 - content/post/test.md
