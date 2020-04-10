@@ -22,3 +22,7 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: showfullcontent
+  type: boolean
+  label: showFullContent
+  description: Show full content
