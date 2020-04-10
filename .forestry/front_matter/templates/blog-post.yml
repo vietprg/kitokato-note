@@ -17,3 +17,8 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  hidden: false
