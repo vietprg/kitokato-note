@@ -1,8 +1,10 @@
 ---
-title: "My First Post"
-date: 2020-04-10T16:42:10+02:00
-draft: false 
-tags: ["daily", "randomthoughts"]
-categories: ["non-tech"]
----
+title: My First Post
+date: 2020-04-09T14:42:10+00:00
+tags:
+- daily
+- randomthoughts
+categories:
+- non-tech
 
+---
