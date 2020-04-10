@@ -6,7 +6,7 @@ disqusShortname = "viet-md"
 
 [params]
   contentTypeName = "post"
-  themeColor = "red"
+  themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
