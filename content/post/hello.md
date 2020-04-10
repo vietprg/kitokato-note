@@ -14,16 +14,16 @@ _Blog này được làm bằng_ [_Hugo_](https://gohugo.io "Gohugo")_, sử d�
 
 Vài điểm nhận xét nhanh
 
-> **Pros:**
->
+**Pros:**
+
 > 1. Hugo là framework nằm trong top hiện nay nếu nói về tốc độ, khi cho tốc độ load 1 trang dưới [<1 ms](https://github.com/bep/hugo-benchmark "Hugo benchmark")
 > 2. Có thể dev trên nhiều platform bao gồm cả macOS, Linux và Windows.
 > 3. Render trực tiếp trên localhost.
 > 4. Khả năng thiết kế giao diện tùy biến.
 > 5. Host độc lập hoặc trên các nền tảng như Netlify.
 
-> **Cons:**
->
+**Cons:**
+
 > 1. Không hỗ trợ plugin, nên về cơ bản sẽ rất khó nếu phát triển các site cần tính năng phức tạp.
 > 2. Syntax kiểu mình thích thì mình viết thôi, nhưng được cái nếu để ý thì học theo cũng khá nhanh.
 
