@@ -22,3 +22,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/post/woocommerce-10-snippet-giúp-nâng-cao-trải-nghiệm-khách-hàng.md
