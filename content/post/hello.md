@@ -4,7 +4,7 @@ cover = "img/hello.jpg"
 date = 2019-04-09T23:00:00Z
 description = "Blog này được làm bằng Hugo, sử dụng theme Terminal và host tại Netlify. Với mình đây là sự kết hợp khá ổn và phù hợp với blog cá nhân."
 showfullcontent = false
-tags = ["random thoughts"]
+tags = ["random thoughts", "netlify", "hugo"]
 title = "Everything must have a beginning"
 
 +++
