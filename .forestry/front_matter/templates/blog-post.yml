@@ -28,4 +28,3 @@ fields:
   description: Set to hide post preview from frontpage
 pages:
 - content/post/hello.md
-- content/post/test.md
