@@ -26,3 +26,5 @@ fields:
   type: boolean
   label: showFullContent
   description: Show full content
+pages:
+- content/post/test.md
