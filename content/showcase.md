@@ -85,4 +85,9 @@ Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauri
 
     {{< instagram BWNjjyYFxVx >}}
 
-    {{< youtube w7Ft2ymGmfc >}}
+    {<table “table table-striped table-bordered”>}}
+    | Header 1 | Header 2 | Header 3 |
+    |———-|———-|———-|
+    | Item 1   | Item 2   | Item 3   |
+    | Item 1a  | Item 2a  | Item 3a  |
+    {{</table>}}
