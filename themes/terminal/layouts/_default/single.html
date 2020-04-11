@@ -12,7 +12,7 @@
     <span class="post-author">::
       {{ . }}
     </span>
-    {{ end }}
+    {{ end }}:: {{ math.Round (div (countwords .Content) 220.0) }} minutes read.
   </div>
 
   {{ if .Params.tags }}
@@ -22,7 +22,7 @@
     {{ end }}
   </span>
   {{ end }}
-{{ math.Round (div (countwords .Content) 220.0) }} minutes read.
+
   {{ with .Params.Cover }}
   <img src="{{ . | absURL }}" class="post-cover" />
   {{ end }}
