@@ -84,10 +84,3 @@ Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie
 Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.
 
     {{< instagram BWNjjyYFxVx >}}
-
-    {<table “table table-striped table-bordered”>}}
-    | Header 1 | Header 2 | Header 3 |
-    |———-|———-|———-|
-    | Item 1   | Item 2   | Item 3   |
-    | Item 1a  | Item 2a  | Item 3a  |
-    {{</table>}}
