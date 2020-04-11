@@ -22,7 +22,7 @@
     {{ end }}
   </span>
   {{ end }}
-
+Reading time: {{ math.Round (div (countwords .Content) 220.0) }} minutes.
   {{ with .Params.Cover }}
   <img src="{{ . | absURL }}" class="post-cover" />
   {{ end }}
