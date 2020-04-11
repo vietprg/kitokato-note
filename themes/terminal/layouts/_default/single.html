@@ -12,7 +12,7 @@
     <span class="post-author">::
       {{ . }}
     </span>
-    {{ end }}:: {{ math.Round (div (countwords .Content) 220.0) }} minutes read.
+    {{ end }}:: {{ math.Round (div (countwords .Content) 220.0) }} minutes read
   </div>
 
   {{ if .Params.tags }}
