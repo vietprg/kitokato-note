@@ -86,8 +86,3 @@ Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauri
     {{< instagram BWNjjyYFxVx >}}
 
     {{< youtube w7Ft2ymGmfc >}}
-
-    Name    | Age
-    --------|------
-    Bob     | 27
-    Alice   | 23
