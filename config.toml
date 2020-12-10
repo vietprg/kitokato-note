@@ -1,17 +1,20 @@
-baseurl = "https://viet.md"
+baseURL = "https://viet.md"
 languageCode = "en-us"
+title = "viet.md"
 theme = "cactus"
-paginate = 5
-disqusShortname = "viet-md"
+copyright = "You" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+
 
 # summaryLength = 2
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "viet.md"
+name = "Home"
 url = "/"
 weight = 1
- 
+
 [[menu.main]]
 name = "Writings"
 url = "/posts"
